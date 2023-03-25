@@ -1,2 +1,3 @@
 # BankManagmentProject
-Beginner JAVA bank application project
+İN PROGRESS
+Beginner Java bank application project
