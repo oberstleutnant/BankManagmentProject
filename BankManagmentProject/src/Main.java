@@ -111,6 +111,7 @@ public class Main {
             } while (option != 'e');
 
             System.out.println("BİZİ TERCİH ETTİĞİNİZ İÇİN TEŞEKKÜR EDERİZ");
+            System.out.println("BİZİ TERCİH ETTİĞİNİZ İÇİN TEŞEKKÜR EDERİZ");
 
         }
     }
